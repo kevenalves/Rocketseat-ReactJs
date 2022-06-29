@@ -17,3 +17,24 @@ Verifique: [Github Card](https://github-card-kev.netlify.app/)
 <p align="center">
   <img src="demo2-github-card.gif" width="266" height="500"/>
 </p>
+
+
+</br>
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center" style="background:yellow">
+<a href="https://www.linkedin.com/in/keven-alves-903b0a224/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-kevenalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/kevenalvesm" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kevenalvesm-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="#" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kevenalvesm@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+</p>

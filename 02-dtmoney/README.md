@@ -34,7 +34,7 @@ Verifique o projeto: [dtmoney](https://dtmoney-kevenalves.vercel.app/)
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/EliasGcf/dtmoney.git && cd dtmoney
+$ git clone https://github.com/kevenalves/Rocketseat-ReactJs.git && cd 02-dtmoney
 ```
 
 **Siga os passos**
@@ -75,6 +75,7 @@ $ yarn start
   <img src="img\dtmoney-mobile-gif.gif" width="285" height="500"/>
 </p>
 
+</br>
 
 ## 📝 License
 
